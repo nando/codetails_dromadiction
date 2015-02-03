@@ -141,12 +141,14 @@ section "Previously on \e[1m\"AMOR x lo diminuto\"\e[0m..." do
   
   center <<-EOS
     \e[1mto be continued\e[0m
-    (by all of us! :)
+    (¡by all of us! [2]&[3]:)
 
     \e[1m¡GRACIAS!\e[0m
 
     [0] http://otaony.com:3003/tuits/MARCO
     [1] http://otaony.com:3003/tuits/OLIVIA
+    [2] https://github.com/AuiDrome/auidrome (fork)
+    [3] https://www.loomio.org/g/t4295q8g/auidrome (opinion)
   EOS
 
 end
